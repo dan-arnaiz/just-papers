@@ -1,2 +1,2 @@
 # just-papers
-Just random papers
+Just random papers.
